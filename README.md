@@ -8,6 +8,15 @@ RINA Southbound Driver is a python-based library to enable SDN controllers manag
 </ul>
 
 # Installation
+
+The repository contains the rina wheel in the dist folder that must be downloaded for be installed.
+To install the wheel use pip:
+
+```
+pip install rina-0.0.3-py3-none-any.whl
+```
+
+
 # Build
 # Architecture
 
