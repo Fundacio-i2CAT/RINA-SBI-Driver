@@ -3,6 +3,14 @@ RINA Southbound Driver is a python-based library to enable SDN controllers manag
 
 # Pre-requisites
 <ul>
-    - Python 3.6 or higher.
-    - RINA implementation for OS/Linux [IRATI open source](https://https://github.com/IRATI/stack).
+    <li> Python 3.6 or higher.</li> 
+    <li> RINA implementation for OS/Linux [IRATI open source](https://https://github.com/IRATI/stack).</li> 
 </ul>
+
+# Installation
+# Build
+# Architecture
+
+
+
+
