@@ -11,6 +11,7 @@ RINA Southbound Driver is a python-based library to enable SDN controllers manag
 # Build
 # Architecture
 
+![alt text](SDN_Controller.png)
 
 
 
