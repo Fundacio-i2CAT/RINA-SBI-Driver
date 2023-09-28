@@ -1,0 +1,16 @@
+setup.py
+rina/__init__.py
+rina/coreManager.py
+rina/manager.py
+rina.egg-info/PKG-INFO
+rina.egg-info/SOURCES.txt
+rina.egg-info/dependency_links.txt
+rina.egg-info/top_level.txt
+rina/nodes/__init__.py
+rina/nodes/node.py
+rina/operations/__init__.py
+rina/operations/base.py
+rina/operations/difs.py
+rina/operations/ipcps.py
+rina/operations/system.py
+rina/operations/utils.py

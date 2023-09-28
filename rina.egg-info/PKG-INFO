@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: rina
+Version: 0.0.3
+Summary: rina driver for implementing SDN controller
+Home-page: UNKNOWN
+Author: David Sarabia
+Author-email: david.sarabia@i2cat.net
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Licence :: OSI Approved :: MIT Licencse
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
