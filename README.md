@@ -17,9 +17,9 @@ pip install rina-0.0.3-py3-none-any.whl
 ```
 
 
-# Build
 # Architecture
 
+The RINA SBI driver can be used to add functionalities to SDN controller based on Ryu Framework for controlling RINA devices. The following figure shows the SDN architecture with the RINA SBI driver. The RINA SBI driver depends on the RINA manager application that is available on the [IRATI open source](https://https://github.com/IRATI/stack).
 ![alt text](SDN_Controller.png)
 
 
